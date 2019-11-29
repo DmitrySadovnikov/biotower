@@ -1,4 +1,6 @@
 .idea
+.env
 .env.development
 .env.production
 .env.test
+biotower/__pycache__
